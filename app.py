@@ -104,7 +104,7 @@ if page == "Single Prediction":
             "Market": ["APAC"],
             "Region": ["Oceania"],
             "Sub-Category": ["Labels"],
-                "Order Priority": order_priority
+            "Order Priority": order_priority
         })
 
 
